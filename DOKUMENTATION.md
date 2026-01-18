@@ -220,5 +220,4 @@ Der Preis wird automatisch bei jeder Änderung neu berechnet und in der Zusammen
 
 ---
 
-*Dokumentation erstellt am 18.01.2026*
-*Richtzeit: 3-4 Lektionen*
+
